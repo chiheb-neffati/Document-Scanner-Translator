@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">camera test</string>
+    <string-array name="Langauges">
+        <item>French</item>
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>
