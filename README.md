@@ -7,7 +7,7 @@ After extracting the text, the phone identifies the language of that text and th
 ## What did i use to develop it ?
 Well, first of all, i used :
   -Android Studio and Java to develop the app.
-  -Google ML-kit (https://developers.google.com/ml-kit) for the OCR, Language identification and Translation models (This made it both easier and faster to complete the project since i had no prior experience with machine learning, also the documentation was very helpful !) 
+  -Google ML-kit (https://developers.google.com/ml-kit) for the OCR, Language identification and Translation models (This made it both easier and faster to complete the project    since i had no prior experience with machine learning, also the documentation was very helpful !) 
 ## how to get the project?
 ### Step 1 : Requirements :
 First of all you need :
