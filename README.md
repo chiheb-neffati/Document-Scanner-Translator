@@ -17,4 +17,4 @@ To open this project locally on Android Studio you need to run this command in y
 Open Android Studio. Go to `File -> New -> Import Project`, Then choose the folder you cloned the project to, then click `Next->Finish`. It will build the Gradle automatically and it'll be ready for you to use.
 ## Any suggestions ?
 This project is by no means perfect !, it was an oppurtunity for me to get my feet wet in this field and i am still learning and for that if you encounter any issues or if you have any suggestions or advices pls feel free to let me know !
-(email : chihebneffati@ieee.org)
+(email : chihebneffati@gmil.com)
